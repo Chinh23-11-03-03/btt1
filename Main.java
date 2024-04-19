@@ -19,5 +19,20 @@ public class Main { // Semicolon added
         System.out.println("Tong la so le.");
       }
     }
+
+	public static int calculateSumOfPositiveIntegers(int n) {
+		// TODO Auto-generated method stub
+		throw new UnsupportedOperationException("Unimplemented method 'calculateSumOfPositiveIntegers'");
+	}
+
+    public static boolean isEvenSum(int calculateSumOfPositiveIntegers) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'isEvenSum'");
+    }
+
+    public static boolean isOddSum(int calculateSumOfPositiveIntegers) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'isOddSum'");
+    }
   }
   
