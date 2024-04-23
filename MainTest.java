@@ -14,7 +14,13 @@ public class MainTest {
         assertEquals(expectedSum, actualSum);
     }
 
-  
+
+    @Test
+    public void testIsEvenSumForEvenNumber() {
+    int sum = 8; // Số chẵn
+    assertTrue(Main.isEvenSum(sum), "Even number should return true");
+    }
+
     @Test
     public void testOddSum() {
         int n = 9;
